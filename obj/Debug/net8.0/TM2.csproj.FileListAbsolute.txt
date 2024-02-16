@@ -1,0 +1,14 @@
+C:\Users\IBI\Desktop\Proyecto\TM2\bin\Debug\net8.0\TM2.exe
+C:\Users\IBI\Desktop\Proyecto\TM2\bin\Debug\net8.0\TM2.deps.json
+C:\Users\IBI\Desktop\Proyecto\TM2\bin\Debug\net8.0\TM2.runtimeconfig.json
+C:\Users\IBI\Desktop\Proyecto\TM2\bin\Debug\net8.0\TM2.dll
+C:\Users\IBI\Desktop\Proyecto\TM2\bin\Debug\net8.0\TM2.pdb
+C:\Users\IBI\Desktop\Proyecto\TM2\obj\Debug\net8.0\TM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Desktop\Proyecto\TM2\obj\Debug\net8.0\TM2.AssemblyInfoInputs.cache
+C:\Users\IBI\Desktop\Proyecto\TM2\obj\Debug\net8.0\TM2.AssemblyInfo.cs
+C:\Users\IBI\Desktop\Proyecto\TM2\obj\Debug\net8.0\TM2.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Desktop\Proyecto\TM2\obj\Debug\net8.0\TM2.dll
+C:\Users\IBI\Desktop\Proyecto\TM2\obj\Debug\net8.0\refint\TM2.dll
+C:\Users\IBI\Desktop\Proyecto\TM2\obj\Debug\net8.0\TM2.pdb
+C:\Users\IBI\Desktop\Proyecto\TM2\obj\Debug\net8.0\TM2.genruntimeconfig.cache
+C:\Users\IBI\Desktop\Proyecto\TM2\obj\Debug\net8.0\ref\TM2.dll
