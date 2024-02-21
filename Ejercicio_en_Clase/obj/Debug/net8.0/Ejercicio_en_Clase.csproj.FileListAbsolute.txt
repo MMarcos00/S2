@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Proyecto\Ejercicio_en_Clase\obj\Debug\net8.0\Ejercicio_en_Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Proyecto\Ejercicio_en_Clase\obj\Debug\net8.0\Ejercicio_en_Clase.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Proyecto\Ejercicio_en_Clase\obj\Debug\net8.0\Ejercicio_en_Clase.AssemblyInfo.cs
+C:\Users\IBI\Documents\Proyecto\Ejercicio_en_Clase\obj\Debug\net8.0\Ejercicio_en_Clase.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Proyecto\Ejercicio_en_Clase\bin\Debug\net8.0\Ejercicio_en_Clase.exe
+C:\Users\IBI\Documents\Proyecto\Ejercicio_en_Clase\bin\Debug\net8.0\Ejercicio_en_Clase.deps.json
+C:\Users\IBI\Documents\Proyecto\Ejercicio_en_Clase\bin\Debug\net8.0\Ejercicio_en_Clase.runtimeconfig.json
+C:\Users\IBI\Documents\Proyecto\Ejercicio_en_Clase\bin\Debug\net8.0\Ejercicio_en_Clase.dll
+C:\Users\IBI\Documents\Proyecto\Ejercicio_en_Clase\bin\Debug\net8.0\Ejercicio_en_Clase.pdb
+C:\Users\IBI\Documents\Proyecto\Ejercicio_en_Clase\obj\Debug\net8.0\Ejercicio_en_Clase.dll
+C:\Users\IBI\Documents\Proyecto\Ejercicio_en_Clase\obj\Debug\net8.0\refint\Ejercicio_en_Clase.dll
+C:\Users\IBI\Documents\Proyecto\Ejercicio_en_Clase\obj\Debug\net8.0\Ejercicio_en_Clase.pdb
+C:\Users\IBI\Documents\Proyecto\Ejercicio_en_Clase\obj\Debug\net8.0\Ejercicio_en_Clase.genruntimeconfig.cache
+C:\Users\IBI\Documents\Proyecto\Ejercicio_en_Clase\obj\Debug\net8.0\ref\Ejercicio_en_Clase.dll
